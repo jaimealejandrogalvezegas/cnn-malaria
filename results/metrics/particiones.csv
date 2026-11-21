@@ -1,0 +1,4 @@
+conjunto,No parasitada,Parasitada,Total,Proporción (%),Pacientes
+entrenamiento,9801,9776,19577,71.03926264605559,142
+validación,1983,1994,3977,14.431381087161622,29
+prueba,1995,2009,4004,14.529356266782786,29

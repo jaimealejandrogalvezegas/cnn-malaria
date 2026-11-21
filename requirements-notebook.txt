@@ -1,0 +1,6 @@
+-r requirements.txt
+pandas==2.3.3
+seaborn==0.13.2
+scikit-learn==1.9.1
+ipykernel==7.4.0
+jupyterlab==4.6.6

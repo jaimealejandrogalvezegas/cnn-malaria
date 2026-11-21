@@ -1,0 +1,31 @@
+{
+  "modelo": "CNN B",
+  "filtros": [
+    12,
+    24,
+    40
+  ],
+  "parametros": 14485,
+  "tamano_rgb": [
+    48,
+    48,
+    3
+  ],
+  "lote": 96,
+  "max_epocas": 12,
+  "mejor_epoca": 6,
+  "paciencia": 3,
+  "optimizador": "Adam",
+  "learning_rate": 0.0015,
+  "criterio_seleccion": "val_loss",
+  "umbral": 0.5,
+  "etiquetas": {
+    "Uninfected": 0,
+    "Parasitized": 1
+  },
+  "semilla": 42,
+  "semilla_division": 48,
+  "tensorflow": "2.21.0",
+  "dispositivo": "CPU",
+  "segundos_entrenamiento": 107.36282409999967
+}
