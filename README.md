@@ -4,7 +4,7 @@ Proyecto universitario que clasifica imágenes microscópicas de células indivi
 
 ## Aplicación en línea
 
-**Streamlit Community Cloud:** pendiente de publicación. Cuando se complete el despliegue, aquí se añadirá el enlace público verificado de la aplicación.
+**Streamlit Community Cloud:** [Abrir el prototipo CNN Malaria](https://cnn-malaria-unfv.streamlit.app/).
 
 ## Prototipo en funcionamiento
 
