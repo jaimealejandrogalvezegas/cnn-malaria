@@ -29,6 +29,5 @@ Se usaron **27 558 imágenes** del dataset NIH Malaria Cell Images. La divisi�
 El prototipo utiliza el [modelo entrenado](models/modelo_malaria_cnn.keras) y acepta PNG, JPG y JPEG de hasta 10 MB y 12 megapíxeles. Está destinado al análisis académico de células individuales. Las puntuaciones del modelo no constituyen un diagnóstico.
 
 ---
-
-**Elaborado por Jaime Alejandro Galvez Egas**  
+ 
 **Universidad Nacional Federico Villarreal 2026 ©**
